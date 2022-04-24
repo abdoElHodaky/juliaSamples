@@ -1,1 +1,2 @@
-Arr=Array{String,["2","6"]}
+Arr=Array{String,1}("34","45")
+println(Arr)
